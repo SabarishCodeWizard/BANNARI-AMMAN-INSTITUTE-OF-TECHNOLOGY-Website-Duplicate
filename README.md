@@ -5,7 +5,7 @@
 This project is a duplicate of the BANNARI AMMAN INSTITUTE OF TECHNOLOGY website. The aim is to replicate the look and feel of the original website using HTML, CSS, and JavaScript.
 
 ## Project Link
-You can view the project [here](https://sabarishcodewizard.github.io/bitwebsite/index.html).
+You can view the PROJECT WEBSITE [here](https://sabarishcodewizard.github.io/bitwebsite/index.html).
 
 ## Table of Contents
 - [Project Overview](#project-overview)
